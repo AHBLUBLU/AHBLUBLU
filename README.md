@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AHBLUBLU
-- 👀 I’m interested in python, c#, c++
-- 🌱 I’m currently learning python and c#
+- 👀 I’m interested in python, c#, c++, vmware, aws, networking, system admin
+- 🌱 I’m currently learning vmware, aws, networking, system admin
 - 💞️ I’m looking to collaborate on ...
 - 📫 Can contact me via gmail: manfredlumjunan@gmail.com
 
