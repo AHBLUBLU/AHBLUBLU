@@ -1,0 +1,26 @@
+{
+  "name": "Flashcord Alpha",
+  "version": "aSTB-230721-HF0",
+  "description": "The world's most advanced and unnecessarily complicated Discord Theme to ever exist.",
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "scripts": {
+    "build": "replugged build theme",
+    "watch": "replugged build theme --watch",
+    "bundle": "replugged bundle theme",
+    "lint": "prettier ./src --check",
+    "lint:fix": "prettier ./src --write"
+  },
+  "keywords": [],
+  "author": "SiriusBYT",
+  "license": "CC BY-NC-ND 4.0",
+  "devDependencies": {
+    "@parcel/config-default": "^2.8.3",
+    "@parcel/core": "^2.8.3",
+    "@types/node": "^18.15.11",
+    "prettier": "^2.8.7",
+    "replugged": "^4.4.2"
+  }
+}
